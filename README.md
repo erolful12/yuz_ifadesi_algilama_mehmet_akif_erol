@@ -18,7 +18,7 @@ Webcam’in çalıştığından emin olun.
 
 Çalıştırma: python yuz_algila.py
 0-3 tuşlarıyla ifade seçin (0: mutlu, 1: üzgün, 2: kızgın, 3: şaşkın).
-Her ifade için 400 örnek toplanır, ekranda kayıt sayısı gösterilir.
+Her ifade için 300 örnek toplanır, ekranda kayıt sayısı gösterilir.
 e ile devam, h ile bitir. Veriler veriseti.csv’ye kaydedilir.
 
 2. Model Eğitimi (egitim.py)

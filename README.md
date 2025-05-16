@@ -1,3 +1,5 @@
+! Kod, her ifade için 400 veri topladı; ancak 25 MB’ı aşan `veriseti.csv` boyutu nedeniyle mutluluk hariç diğer ifadeler 300’e düşürüldü.
+
 Yüz İfadesi Tanıma Projesi - Çalıştırma Notları
 Bu proje, Mediapipe ve Logistic Regression kullanarak gerçek zamanlı yüz ifadesi (mutlu, üzgün, kızgın, şaşkın) tanıma yapar.
 Çalıştırma Notları
